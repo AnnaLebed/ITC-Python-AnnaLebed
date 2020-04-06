@@ -14,4 +14,4 @@ def build_pyramid_with_given_height(height):
             print(" ")
 
 
-build_pyramid_with_given_height(0)
+build_pyramid_with_given_height(anna)
